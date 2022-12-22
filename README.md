@@ -1,2 +1,2 @@
 # ezbuild
-EZBuild toolkit made in C#
+EZBuild build kit made in C#
